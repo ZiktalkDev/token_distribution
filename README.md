@@ -8,7 +8,7 @@
 | :---: | :---: | :---: | :---: | :--- |
 | Social Mining Reserve | Reserve | 5 billion | 4 billion | https://scan.luniverse.io/accounts/0xdb7ce495f328f8c07265b9e533d72297eacff462 |
 | Token Sale | Reserve | 3 billion | 1 billion | https://scan.luniverse.io/accounts/0x8a9a1ddba8d19c628b4bf9a87c92d25ca315e069 |
-| Team | Reserve | 1 billion | 0.8 billion | https://scan.luniverse.io/accounts/0xe7356039b493547442e3d5126cda95a9812e425a |
+| Team | Reserve | 1 billion | 0.7 billion | https://scan.luniverse.io/accounts/0xe7356039b493547442e3d5126cda95a9812e425a |
 | Partners | Reserve | 0.5 billion | 0.31 billion | https://scan.luniverse.io/accounts/0xc22d683c6FE0D8d5A574E8fd675b6927D6659Ca9 |
 | Bounty | Reserve | 0.3 billion | 0.15 billion | https://scan.luniverse.io/accounts/0x694780Dadd627d053CD9F28a024CF7d2dA24eF62 |
 | Advisor | Reserve | 0.2 billion | 0 billion | https://scan.luniverse.io/accounts/0xbAD1C812c9E76F217C13d342a9e6d66C03Ef6F20 |
